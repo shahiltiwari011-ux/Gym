@@ -31,23 +31,23 @@ export default function Location() {
             <div className="mb-10">
               <h3 className="text-xs font-bold text-zinc-500 mb-2 uppercase tracking-[0.2em]">Location</h3>
               <p className="text-white text-lg font-heading tracking-widest leading-relaxed">
-                3rd Floor, RS Tower,<br />
-                Circuit House Sq, Above Jockey Showroom,<br />
-                Railway Colony, Satna,<br />
-                Madhya Pradesh 485001
+                5th Floor, Imperial Plaza,<br />
+                MP Nagar Zone-II, Near DB Mall,<br />
+                Arera Colony, Bhopal,<br />
+                Madhya Pradesh 462016
               </p>
             </div>
             
             <div className="mb-10">
               <h3 className="text-xs font-bold text-zinc-500 mb-2 uppercase tracking-[0.2em]">Contact</h3>
-              <a href="tel:+917000917618" className="text-primary text-4xl font-heading tracking-widest hover:text-white transition-colors">
-                70009 17618
+              <a href="tel:+919876543210" className="text-primary text-4xl font-heading tracking-widest hover:text-white transition-colors">
+                98765 43210
               </a>
             </div>
             
             <div className="flex flex-col gap-4 mt-auto">
               <a 
-                href="https://maps.google.com/?q=3rd+Floor,+RS+Tower,+Circuit+House+Sq,+Above+Jockey+Showroom,+Railway+Colony,+Satna,+Madhya+Pradesh+485001" 
+                href="https://maps.google.com/?q=5th+Floor,+Imperial+Plaza,+MP+Nagar+Zone-II,+Near+DB+Mall,+Arera+Colony,+Bhopal,+Madhya+Pradesh+462016" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-full bg-white text-zinc-950 px-6 py-4 text-xs font-bold uppercase tracking-widest hover:bg-zinc-200 transition-colors text-center"

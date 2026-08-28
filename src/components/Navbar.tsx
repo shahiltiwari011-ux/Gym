@@ -42,7 +42,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-24">
           <div className="flex-shrink-0 flex items-center">
             <a href="#" className="font-heading text-3xl tracking-wide text-primary">
-              FITNESS WORLD
+              TITAN FORGE
             </a>
           </div>
           

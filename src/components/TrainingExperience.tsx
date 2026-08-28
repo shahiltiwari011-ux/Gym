@@ -35,7 +35,7 @@ export default function TrainingExperience() {
             </h2>
             
             <p className="text-zinc-400 text-sm md:text-base mb-10 leading-relaxed">
-              At FITNESS WORLD, we believe in putting in the work. No shortcuts, no magic formulas—just a dedicated environment where you can focus on building a stronger, healthier version of yourself through scientific programming and brutal consistency.
+              At TITAN FORGE, we believe in putting in the work. No shortcuts, no magic formulas—just a dedicated environment where you can focus on building a stronger, healthier version of yourself through scientific programming and brutal consistency.
             </p>
             
             <div className="space-y-4 mb-12">

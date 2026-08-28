@@ -7,10 +7,10 @@ export default function Footer() {
           
           <div className="flex-shrink-0">
             <a href="#" className="font-heading text-3xl tracking-wide text-primary">
-              FITNESS WORLD
+              TITAN FORGE
             </a>
             <div className="text-zinc-500 text-[10px] uppercase font-bold tracking-widest mt-2">
-              © 2026 FITNESS WORLD. NO EXCUSES.
+              © 2026 TITAN FORGE. NO EXCUSES.
             </div>
           </div>
           

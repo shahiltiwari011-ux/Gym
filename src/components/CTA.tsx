@@ -53,10 +53,10 @@ export default function CTA() {
           className="flex flex-col sm:flex-row gap-4 justify-center"
         >
           <a href="#plans" className="bg-primary text-zinc-950 px-10 py-5 text-sm font-bold uppercase tracking-widest hover:bg-white transition-colors">
-            JOIN FITNESS WORLD
+            JOIN TITAN FORGE
           </a>
-          <a href="tel:+917000917618" className="border border-zinc-700 text-white px-10 py-5 text-sm font-bold uppercase tracking-widest hover:bg-zinc-800 transition-colors">
-            CALL 70009 17618
+          <a href="tel:+919876543210" className="border border-zinc-700 text-white px-10 py-5 text-sm font-bold uppercase tracking-widest hover:bg-zinc-800 transition-colors">
+            CALL 98765 43210
           </a>
         </motion.div>
       </div>
