@@ -55,8 +55,8 @@ export default function CTA() {
           <a href="#plans" className="bg-primary text-zinc-950 px-10 py-5 text-sm font-bold uppercase tracking-widest hover:bg-white transition-colors">
             JOIN TITAN FORGE
           </a>
-          <a href="tel:+919876543210" className="border border-zinc-700 text-white px-10 py-5 text-sm font-bold uppercase tracking-widest hover:bg-zinc-800 transition-colors">
-            CALL 98765 43210
+          <a href="tel:+15550000000" className="border border-zinc-700 text-white px-10 py-5 text-sm font-bold uppercase tracking-widest hover:bg-zinc-800 transition-colors">
+            CALL +1 (555) 000-0000
           </a>
         </motion.div>
       </div>

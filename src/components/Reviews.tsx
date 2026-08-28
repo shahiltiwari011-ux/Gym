@@ -45,7 +45,7 @@ export default function Reviews() {
             transition={{ duration: 0.5, delay: 0.2 }}
           >
             <a 
-              href="https://maps.google.com/?q=TITAN+FORGE+Bhopal" 
+              href="https://maps.google.com/?q=TITAN+FORGE+Placeholder+City" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center text-white border border-zinc-700 px-6 py-3 text-xs font-bold uppercase tracking-widest hover:bg-white hover:text-zinc-950 transition-colors"

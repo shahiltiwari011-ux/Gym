@@ -28,13 +28,13 @@ function App() {
       {/* Mobile Sticky Action Bar */}
       <div className="lg:hidden fixed bottom-0 left-0 right-0 bg-zinc-950 border-t-2 border-primary z-40">
         <div className="flex text-[10px] font-bold uppercase tracking-widest">
-          <a href="tel:+919876543210" className="flex-1 py-4 text-center text-zinc-300 hover:text-white border-r border-zinc-800">
+          <a href="tel:+15550000000" className="flex-1 py-4 text-center text-zinc-300 hover:text-white border-r border-zinc-800">
             Call Now
           </a>
           <a href="#contact" className="flex-1 py-4 text-center text-zinc-950 bg-primary hover:bg-white transition-colors">
             Join Now
           </a>
-          <a href="https://maps.google.com/?q=TITAN+FORGE+Bhopal" target="_blank" rel="noopener noreferrer" className="flex-1 py-4 text-center text-zinc-300 hover:text-white">
+          <a href="https://maps.google.com/?q=TITAN+FORGE+Placeholder+City" target="_blank" rel="noopener noreferrer" className="flex-1 py-4 text-center text-zinc-300 hover:text-white">
             Directions
           </a>
         </div>

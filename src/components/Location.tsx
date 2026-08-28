@@ -31,23 +31,23 @@ export default function Location() {
             <div className="mb-10">
               <h3 className="text-xs font-bold text-zinc-500 mb-2 uppercase tracking-[0.2em]">Location</h3>
               <p className="text-white text-lg font-heading tracking-widest leading-relaxed">
-                5th Floor, Imperial Plaza,<br />
-                MP Nagar Zone-II, Near DB Mall,<br />
-                Arera Colony, Bhopal,<br />
-                Madhya Pradesh 462016
+                123 Demo Street,<br />
+                Suite 100,<br />
+                Placeholder City,<br />
+                ST 12345
               </p>
             </div>
             
             <div className="mb-10">
               <h3 className="text-xs font-bold text-zinc-500 mb-2 uppercase tracking-[0.2em]">Contact</h3>
-              <a href="tel:+919876543210" className="text-primary text-4xl font-heading tracking-widest hover:text-white transition-colors">
-                98765 43210
+              <a href="tel:+15550000000" className="text-primary text-4xl font-heading tracking-widest hover:text-white transition-colors">
+                +1 (555) 000-0000
               </a>
             </div>
             
             <div className="flex flex-col gap-4 mt-auto">
               <a 
-                href="https://maps.google.com/?q=5th+Floor,+Imperial+Plaza,+MP+Nagar+Zone-II,+Near+DB+Mall,+Arera+Colony,+Bhopal,+Madhya+Pradesh+462016" 
+                href="https://maps.google.com/?q=123+Demo+Street,+Placeholder+City,+ST+12345" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-full bg-white text-zinc-950 px-6 py-4 text-xs font-bold uppercase tracking-widest hover:bg-zinc-200 transition-colors text-center"
